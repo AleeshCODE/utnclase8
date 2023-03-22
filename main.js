@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 alert("hola pa, todo bien.....");
-=======
-alert("hola pa");
->>>>>>> development
+
+alert("hola mundo jjajaja");
